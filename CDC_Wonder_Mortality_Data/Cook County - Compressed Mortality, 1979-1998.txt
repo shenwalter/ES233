@@ -1,0 +1,53 @@
+"Notes"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"1979"	"1979"	1	5298956	0.0 (Unreliable)
+	"1980"	"1980"	8	5268188	0.2 (Unreliable)
+	"1981"	"1981"	1	5230585	0.0 (Unreliable)
+	"1982"	"1982"	1	5231289	0.0 (Unreliable)
+	"1983"	"1983"	10	5219920	0.2 (Unreliable)
+	"1984"	"1984"	4	5227685	0.1 (Unreliable)
+	"1985"	"1985"	2	5210005	0.0 (Unreliable)
+	"1986"	"1986"	24	5195168	0.5
+	"1987"	"1987"	5	5183543	0.1 (Unreliable)
+	"1988"	"1988"	20	5154663	0.4
+	"1989"	"1989"	Suppressed	5140776	Suppressed
+	"1990"	"1990"	Suppressed	5116713	Suppressed
+	"1991"	"1991"	Suppressed	5157888	Suppressed
+	"1992"	"1992"	Suppressed	5206852	Suppressed
+	"1993"	"1993"	Suppressed	5243136	Suppressed
+	"1994"	"1994"	Suppressed	5269784	Suppressed
+	"1995"	"1995"	85	5290394	1.6
+	"1996"	"1996"	Suppressed	5314006	Suppressed
+	"1997"	"1997"	Suppressed	5328375	Suppressed
+	"1998"	"1998"	Suppressed	5353018	Suppressed
+"Total"			199	104640944	0.2
+"---"
+"Dataset: Compressed Mortality, 1979-1998"
+"Query Parameters:"
+"ICD-9 Codes: E900.0 (Due to weather conditions); E900.1 (Of man-made origin); E900.9 (Of unspecified origin)"
+"States: Cook County, IL (17031)"
+"Group By: Year"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: Nov 27, 2022 9:30:56 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality: Compressed Mortality File 1979-1998. CDC WONDER On-line Database, compiled from Compressed Mortality File CMF"
+"1968-1988, Series 20, No. 2A, 2000 and CMF 1989-1998, Series 20, No. 2E, 2003. Accessed at http://wonder.cdc.gov/cmf-icd9.html"
+"on Nov 27, 2022 9:30:56 PM"
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Unreliable."
+"3. The population figures used in the calculation of death rates for the age group 'under 1 year' are the live births for the"
+"given time period. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"4. Population figures in this table for 1979 and 1981-89 are intercensal estimates of the July 1 resident population of the"
+"United States. Note that the state and county population estimates for these years are not consistent with national estimates."
+"The population figures in this table for 1980 and 1990 are modified age-race-sex (MARS) April 1 census counts. The population"
+"figures for 1991-98 are bridged-race intercensal estimates of the July 1 resident population."
