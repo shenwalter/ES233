@@ -1,5 +1,5 @@
 # ES233
-December 2022 | Code used in final project for ENG-SCI 233: Water, Weather and Climate, Harvard University.
+December 2022 | Code used in final project, titled "Cumulative heat stress as a metric for long-term impacts of heatwaves", for ENG-SCI 233: Water, Weather and Climate, Harvard University.
 
 Key files are:
 
